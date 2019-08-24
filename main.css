@@ -1,0 +1,25 @@
+body{
+    font-family: poppins;
+}
+
+#skills{
+    min-height: 100vh;
+}
+.height{
+    min-height: 50vh;
+}
+.text-underline{
+    width: 100px;
+    height: 7px;
+    margin: 0 auto;
+}
+.height-80{
+    min-height: 80vh;
+}
+.about-picture{
+    background: url(/images/lady-laptop.jpg);
+    background-size:cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
